@@ -1,15 +1,15 @@
-# VacuumTube Userstyles
+# VacuumTube Userstyle
 
 <img width="6745" height="862" alt="fullcolor_white_57_2x_v2" src="https://github.com/user-attachments/assets/da8fb7f8-060f-4557-b52c-da5d5c3c2495" />
 
 <div align="center">
 
-A collection of userstyles for [VacuumTube](https://github.com/shy1132/VacuumTube).
+OLED Black userstyle for [VacuumTube](https://github.com/shy1132/VacuumTube).
 
 </div>
 
-Disclaimer: None of these themes include userCSS/user.css metadata.
-It is best to only enable one theme at a time, mixing is experimental.
+Disclaimer: This does not include userCSS/user.css metadata.
+Do not mix themes.
 
 ## How to get them
 
@@ -33,14 +33,8 @@ It is best to only enable one theme at a time, mixing is experimental.
 ~/.var/app/rocks.shy.VacuumTube/config/VacuumTube/userstyles/`
 ```
 
-#### Native packages
+#### Native
 
 ```shell
 ~/.config/VacuumTube/userstyles/
-```
-
-### Windows
-
-```shell
-%appdata%\VacuumTube\userstyles\
 ```
